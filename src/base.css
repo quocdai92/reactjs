@@ -1,0 +1,203 @@
+/* margin top */
+.mt-0{
+    margin-top: 0;
+}
+.mt-1x{
+    margin-top: 10px;
+}
+.mt-2x{
+    margin-top: 20px;
+}
+.mt-3x{
+    margin-top: 30px;
+}
+.mt-4x{
+    margin-top: 40px;
+}
+.mt-5x{
+    margin-top: 50px;
+}
+.mt-6x{
+    margin-top: 60px;
+}
+.mt-7x{
+    margin-top: 70px;
+}
+.mt-8x{
+    margin-top: 80px;
+}
+.mt-9x{
+    margin-top: 90px;
+}
+.mt-1x-half{
+    margin-top: 5px;
+}
+.mt-3x-half{
+    margin-top: 15px;
+}
+.mt-5x-half{
+    margin-top: 25px;
+}
+.mt-7x-half{
+    margin-top: 35px;
+}
+.mt-9x-half{
+    margin-top: 45px;
+}
+/* end */
+
+/* margin right */
+.mr-0{
+    margin-right: 0;
+}
+.mr-1x{
+    margin-right: 10px;
+}
+.mr-2x{
+    margin-right: 20px;
+}
+.mr-3x{
+    margin-right: 30px;
+}
+.mr-4x{
+    margin-right: 40px;
+}
+.mr-5x{
+    margin-right: 50px;
+}
+.mr-1x-half{
+    margin-right: 5px;
+}
+.mr-3x-half{
+    margin-right: 15px;
+}
+.mr-5x-half{
+    margin-right: 25px;
+}
+/* end */
+
+/* margin bottom */
+.mb-1x{
+    margin-bottom: 10px;
+}
+.mb-2x{
+    margin-bottom: 20px;
+}
+.mb-3x{
+    margin-bottom: 30px;
+}
+.mb-4x{
+    margin-bottom: 40px;
+}
+.mb-5x{
+    margin-bottom: 50px;
+}
+.mb-1x-half{
+    margin-bottom: 5px;
+}
+.mb-3x-half{
+    margin-bottom: 15px;
+}
+.mb-5x-half{
+    margin-bottom: 25px;
+}
+/* end */
+
+/* margin left */
+.ml-1x{
+    margin-left: 10px;
+}
+.ml-2x{
+    margin-left: 20px;
+}
+.ml-3x{
+    margin-left: 30px;
+}
+.ml-4x{
+    margin-left: 40px;
+}
+.ml-5x{
+    margin-left: 50px;
+}
+.ml-1x-half{
+    margin-left: 5px;
+}
+.ml-3x-half{
+    margin-left: 15px;
+}
+.ml-5x-half{
+    margin-left: 25px;
+}
+/* end */
+
+/* padding */
+.no-padding{
+    padding: 0!important;
+}
+.p-1x{
+    padding: 10px;
+}
+.p-2x{
+    padding: 20px;
+}
+.p-3x{
+    padding: 30px;
+}
+.p-4x{
+    padding: 40px;
+}
+.p-5x{
+    padding: 50px;
+}
+.pl-0{
+    padding-left: 0;
+}
+.pl-1x{
+    padding-left: 10px;
+}
+.pl-2x{
+    padding-left: 20px;
+}
+.pl-3x{
+    padding-left: 30px;
+}
+
+.pt-0{
+    padding-top: 0;
+}
+.pt-1x{
+    padding-top: 10px;
+}
+.pt-2x{
+    padding-top: 20px;
+}
+.pt-3x{
+    padding-top: 30px;
+}
+
+.pr-0{
+    padding-right: 0;
+}
+.pr-1x{
+    padding-right: 10px;
+}
+.pr-2x{
+    padding-right: 20px;
+}
+.pr-3x{
+    padding-right: 30px;
+}
+
+.pb-0{
+    padding-bottom: 0;
+}
+.pb-1x{
+    padding-bottom: 10px;
+}
+.pb-2x{
+    padding-bottom: 20px;
+}
+.pb-3x{
+    padding-bottom: 30px;
+}
+
